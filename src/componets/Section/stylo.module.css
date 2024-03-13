@@ -1,0 +1,13 @@
+.h2pan{
+    font-weight: 600;
+    font-size: 30px;
+    padding-block: 15px;
+    padding-inline-start: 20px;
+}
+
+.ppan{
+    line-height: 25px;
+    font-weight: 400;
+    font-size: 18px;
+    padding-inline: 20px;
+}
