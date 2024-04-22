@@ -1,3 +1,4 @@
+import { BuscarCep } from "./componets/BuscarCep"
 import { Footer } from "./componets/Footer"
 import { Header } from "./componets/Header"
 import { Section } from "./componets/Section"
@@ -19,6 +20,7 @@ function App() {
         <Section2 />
         <Section />
         <Section3 />
+        <BuscarCep/>
         <SectionNav/>
       </main>
       <Footer />

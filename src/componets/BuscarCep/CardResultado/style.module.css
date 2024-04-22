@@ -1,0 +1,69 @@
+.alerta{
+    margin-left: 20px;
+    font-size: 1.875rem;
+    font-weight: 600;
+    color: red;
+}
+
+
+.resultado{
+    margin: 20px;
+    font-size: 1.375rem;
+    font-weight: 600;
+    line-height: 1.25rem;
+    border: .125rem solid;
+    padding-left: 1rem;
+    padding-block: 1rem;
+    border-radius: .625rem;
+}
+
+.span{
+    color: blue;
+}
+
+.botao1{
+    width: 9.625rem;
+    height: 1.75rem;
+    border-radius: .5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 1.25rem;
+    background-color: blue;
+    color: white;
+}
+
+.inicio{
+    margin-left: 1.25rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+    
+}
+
+.formu{
+    width: 100%;
+    height: 6.25rem;
+}
+
+.input{
+    gap: .9375rem;
+    margin-right: 10px;
+    margin-top: 14px;
+    border: .125rem solid;
+    border-radius: .5rem;
+    padding-left: 8px;
+    font-weight: 600;
+    width: 10.25rem;
+    height: 28px;
+
+
+}
+
+.botao2{
+    border-radius: .5rem;
+    font-weight: 600;
+    width: 9.5rem;
+    margin-top: .875rem;
+    height: 2rem;
+    background-color: blue;
+    color: white;
+}
