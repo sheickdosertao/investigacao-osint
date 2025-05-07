@@ -12,10 +12,10 @@ São realizadas as melhores estratégias de inteligência, em todos os casos sã
 
 ​Tenho um grande número de referências. Tenho como uma das metas trabalhar constantemente de forma árdua, com sigilo e profissionalismo para alcançar ainda mais sucesso no ramo da Investigação Particular e Digital.
 
-Seja qual for o tipo da área que você esteja precisando, pessoal ou negócios, tenho meios e soluções para sua tranquilidade e resolução do problema. 
+Seja qual for o tipo da área que você esteja precisando, pessoal ou negócios, tenho meios e soluções para sua tranquilidade e resolução do problema se voce tomou um golpe, comprou e nao recebeu pela internet entre em contato que eu localizarei o golpista para voce.
  <br/>
 Veja algumas informações que  costumo levantar através de fontes de dados aberta (OSINT – Open source intelligence).
-
+<p>Localizacao exata do gopista.</p>
 <p>Nome Completo.</p>
 <p>Data de Nascimento.</p>
 <p>Número do CPF e RG.</p>
